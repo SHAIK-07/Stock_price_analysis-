@@ -1,4 +1,4 @@
-# 🚀 ML-Powered SQL Querying Application
+# 🚀 CHAT WITH DB
 
 ## 📚 Overview
 
